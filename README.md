@@ -4,7 +4,6 @@
 My very first mobile device was a WinCE thing, and soon I discovered somebody (Tomohisa Hirami) had written an interesting note taking tool that could even encrypt: Tombo.
 The project page is still up but activity has stopped.
 https://tombo.osdn.jp/En/
-Note that the author is still active: https://github.com/io-architect
 
 So yeah, WinCE and a Windows client were nice and then I moved to Linux. The binary ran in Wine but soon I started to create a Linux client for myself. Because why not, and the original project was open source.
 
